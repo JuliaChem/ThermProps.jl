@@ -1,4 +1,4 @@
-module ThermoProps
+module ThermProps
 
     #using Plots
     #using PyPlot
