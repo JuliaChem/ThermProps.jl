@@ -1,6 +1,6 @@
 # Thermodynamic Properties for Liquids and Gases
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1041037.svg)](https://doi.org/10.5281/zenodo.1041037)
+[![DOI](https://zenodo.org/badge/109343453.svg)](https://zenodo.org/badge/latestdoi/109343453)
 [![Coverage Status](https://coveralls.io/repos/github/JuliaChem/ThermProps.jl/badge.svg?branch=master)](https://coveralls.io/github/JuliaChem/ThermProps.jl?branch=master)
 [![Build Status](https://travis-ci.org/JuliaChem/ThermProps.jl.svg?branch=master)](https://travis-ci.org/JuliaChem/ThermProps.jl)
 
