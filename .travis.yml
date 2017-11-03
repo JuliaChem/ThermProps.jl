@@ -29,4 +29,4 @@ notifications:
 # - julia -e 'Pkg.clone(pwd()); Pkg.build("ThermProps"); Pkg.test("ThermProps"; coverage=true)'
 after_success:
   # push coverage results to Coveralls
- - julia -e 'cd(Pkg.dir("ThermoProps")); Pkg.add("Coverage"); using Coverage; Coveralls.submit(Coveralls.process_folder())'
+ - julia -e 'cd(Pkg.dir("ThermProps")); Pkg.add("Coverage"); using Coverage; Coveralls.submit(Coveralls.process_folder())'
