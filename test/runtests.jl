@@ -1,4 +1,4 @@
-using ThermoProps
+using ThermProps
 using Base.Test
 
 # write your own tests here
